@@ -1,4 +1,16 @@
-﻿# CleanArchitecture3
+Install the latest .NET Core SDK
+
+Install the latest Node.js LTS
+
+Run dotnet new --install Clean.Architecture.Solution.Template to install the project template
+
+Create a folder for your solution and cd into it (the template will use it as project name)
+
+Run dotnet new ca-sln to create a new project
+
+Navigate to src/WebUI and run dotnet run to launch the project
+
+ # CleanArchitecture3
 
 The project was generated using the [Clean.Architecture.Solution.Template](https://github.com/jasontaylordev/CleanArchitecture3) version 8.0.0.
 
